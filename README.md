@@ -3,7 +3,7 @@
 Software engineer from Culiacán, Sinaloa 🇲🇽. I build production web apps for real clients with **React, Next.js and TypeScript**.
 
 - 🎓 CETYS Universidad · exchange at Korea University 🇰🇷
-- 🛠️ Currently building **[Markup](https://github.com/Calebpyn/markup)**, a real-time presentation grading tool for university professors
+- 🛠️ Currently building **Open POS**, a point of sale system
 - 💼 Open to freelance and full-time opportunities
 
 ---
